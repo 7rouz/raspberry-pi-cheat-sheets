@@ -32,4 +32,4 @@ where :
 - your_PSK = your WiFi's password
 
 ## SSH activation
-last step is SSH activation because it's desactivated by default in raspbian. And to do so, you only need to create /boot/ssh.
+last step is SSH activation because it's desactivated by default in raspbian. And to do so, you only need to create ```ssh``` file in boot partition.
