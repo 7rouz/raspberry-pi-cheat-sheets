@@ -1,4 +1,4 @@
-# Headless setup of WIFI and ssh activation
+# Headless WIFI setup and ssh activation
 
 ## WIFI configuration
 To headlessly configure WiFi on your Pi, you can create the file ```/boot/wpa_supplicant.conf``` (in the boot partition not /boot of raspbian) that contains the following lines:
