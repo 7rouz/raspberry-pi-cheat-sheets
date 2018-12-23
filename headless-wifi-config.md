@@ -14,7 +14,8 @@ network={
     ssid="your_SSID"
     psk="your_PSK"
     key_mgmt=WPA-PSK
-}```
+}
+```
 
 For Raspbian Jessie:
 ``` java
@@ -22,11 +23,11 @@ network={
     ssid="your_SSID"
     psk="your_PSK"
     key_mgmt=WPA-PSK
-}```
+}
+```
 
 where :
-- your_ISO-3166-1_two-letter_country_code = FR for france or CA for canada you can get your country's ISO two lettre code from here 
-https://www.iso.org/obp/ui/#search .
+- your_ISO-3166-1_two-letter_country_code = FR for france or CA for canada you can get your country's ISO two lettre code from [here](https://www.iso.org/obp/ui/#search).
 - your_SSID = your WiFi's name
 - your_PSK = your WiFi's password
 
